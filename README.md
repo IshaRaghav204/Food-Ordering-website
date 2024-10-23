@@ -3,10 +3,14 @@ This is a responsive food ordering website built using ReactJS. The website allo
 
 ## `About the project`
 The Food Ordering Website is a modern web application designed to provide users with a seamless food ordering experience.
-`Features:` 
+
+# Features: 
 Home Page: Displays a list of food items organized into categories
+
 Cart Functionality: Allows users to review their selections, adjust quantities, and remove items from their cart
+
 Sign In/Sign Up: Provides user authentication via a pop-up form, prompting users to sign in or register
+
 Mobile-First Design: Built with responsiveness in mind, the website delivers a smooth experience across devices of different screen sizes.
 
 
