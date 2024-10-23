@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# `Food Ordering Website`
+This is a responsive food ordering website built using ReactJS. The website allows users to browse the menu, add food items to the cart, and sign in or sign up for personalized experiences.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## `About the project`
+The Food Ordering Website is a modern web application designed to provide users with a seamless food ordering experience.
+`Features:` 
+Home Page: Displays a list of food items organized into categories
+Cart Functionality: Allows users to review their selections, adjust quantities, and remove items from their cart
+Sign In/Sign Up: Provides user authentication via a pop-up form, prompting users to sign in or register
+Mobile-First Design: Built with responsiveness in mind, the website delivers a smooth experience across devices of different screen sizes.
 
-## Available Scripts
 
-In the project directory, you can run:
+#### `Getting started`
+## `Installation`
 
-### `npm start`
+1. Clone the repository:
+   ```bash
+    https://github.com/IshaRaghav204/Food-Ordering-website/tree/my-new-branch
+   ```
+2. Navigate to the Project Directory:
+   ```bash
+   cd food-ordering-website
+   ```
+3. Install Dependencies
+   ```bash
+   npm install
+   ```
+4. Start the Development Server
+   ```bash
+   npm start
+   ```
+5. Open the Application
+   ```bash
+    http://localhost:3000
+   ```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### `Technologies Used`
+ReactJS: For building the user interface.
+CSS Modules: For styling components.
+React Router: For navigation between pages.
+State Management: Used useState and useEffect for managing component states.
+Responsive Design: Implemented media queries to ensure mobile-first design.
 
-### `npm test`
+## Screenshots:
+![Screenshot 2024-10-23 230651](https://github.com/user-attachments/assets/85158f29-9f92-49a3-94b3-282cee1e7aeb)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot 2024-10-23 230726](https://github.com/user-attachments/assets/373ae568-69fe-479a-b0d1-91b36e8f0e24)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot 2024-10-23 230746](https://github.com/user-attachments/assets/b174ed11-37b7-47a3-9e9e-3efaa99ce62c)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Screenshot 2024-10-23 230757](https://github.com/user-attachments/assets/aa304827-26da-401d-8455-53afbe0a4348)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   
+## License
+ This project is licensed under the MIT License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+   
+   
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
